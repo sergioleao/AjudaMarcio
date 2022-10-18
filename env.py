@@ -1,4 +1,4 @@
 
-secret_key =  'E0nQ0i4HrpFiXRppXzgWIhONQFDqHUa9wGE4'
-api_key = "QTL4ks1lPgf3gdcjwN"
+secret_key =  'Colocar Secret Key Aqui'
+api_key = "colocar Api Key Aqui"
 endpoint = "https://api.bybit.com"
